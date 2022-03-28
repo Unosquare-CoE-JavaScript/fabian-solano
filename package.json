@@ -1,0 +1,27 @@
+{
+  "name": "fabian-solano",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha unit-testing-node/test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Unosquare-CoE-JavaScript/fabian-solano.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Unosquare-CoE-JavaScript/fabian-solano/issues"
+  },
+  "homepage": "https://github.com/Unosquare-CoE-JavaScript/fabian-solano#readme",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^9.2.2",
+    "request": "^2.88.2",
+    "sinon": "^13.0.1",
+    "sinon-chai": "^3.7.0"
+  }
+}
